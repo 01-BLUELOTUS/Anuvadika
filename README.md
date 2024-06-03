@@ -12,7 +12,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/01-BLUELOTUS/Anuvadika.git
 cd anuvadika
 ```
 
